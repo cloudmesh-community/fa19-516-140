@@ -1,2 +1,2 @@
 # Datacenter
-* I'm using one of the *Delay a Lab for one week passes* for this assignment.
+* I'm using one of my eight *Delay passes* ** for one week** on this assignment.
