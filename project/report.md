@@ -1,29 +1,35 @@
 ## Cloudmesh Cloud AI Service   
 
-*fa19-516-140, Mohamed Elfateh Abdelgader*
+*fa19-516-140, Mohamed Elfateh Abdelgader*   
 
-### Abstract
+### Abstract   
 
 I will be developing services that facilitates AI capabilities and functionalities on the cloud. also will develop a REST service that 
-invokes an AI functionality in a general term.
-the service which i will develop will be demonstrated on kubernetes and OpenStack showcasing applicability in container and 
-virtual machines. A deployment, testing, and benchmark activity will be demonstrated accordingly. 
+invokes an AI functionality in a general form.
 
-### Introduction
+### Introduction  
+
 **TBD
 
-### Technologies included
+### Technologies used
 
-*prelimnary*
-python.
-AI knowledge
-Flask
-OpenAPI
+*prelimnary listing*  
 
-***Implementation
-TBD
+python.  
+Flask   
+OpenAPI  
 
-***REST API
-TBD
+### Design   
+**TBD  
 
-Conclusion
+###Implementation
+**TBD  
+
+### Challenges 
+
+**TBD  
+
+### Limitations   
+**TBD  
+
+### Conclusion
