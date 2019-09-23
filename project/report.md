@@ -19,9 +19,9 @@ ________________
 
 *prelimnary listing (to be confirmed later)*
 
-python  
-Flask   
-OpenAPI  
+* Python.
+* Flask.
+* OpenAPI.
 
 ### Design
 ________________
@@ -37,8 +37,10 @@ ________________
 **TBD**  
 
 ### Limitations   
-**TBD**  
 ________________
+
+**TBD**  
+
 
 ### Conclusion
 _______________
