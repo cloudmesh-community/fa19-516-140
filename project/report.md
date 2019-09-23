@@ -3,33 +3,40 @@
 *fa19-516-140, Mohamed Elfateh Abdelgader*   
 
 ### Abstract   
+________________
 
-I will be developing services that facilitates AI capabilities and functionalities on the cloud. also will develop a REST service that 
+I will be developing services that facilitates AI capabilities and functionalities on the cloud along with a REST service that 
 invokes an AI functionality in a general form.
 
 ### Introduction  
+________________
+**TBD**  
 
-**TBD
+### Technologies used 
+________________
+*prelimnary listing (to be confirmed later)*
 
-### Technologies used
-
-*prelimnary listing*  
-
-python.  
+python  
 Flask   
 OpenAPI  
 
-### Design   
-**TBD  
+### Design
+________________
 
-###Implementation
-**TBD  
+**TBD**  
+
+### Implementation 
+________________
+**TBD**  
 
 ### Challenges 
-
-**TBD  
+________________
+**TBD**  
 
 ### Limitations   
-**TBD  
-
+**TBD**  
+________________
 ### Conclusion
+________________
+### References
+===============
