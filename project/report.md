@@ -1,4 +1,5 @@
 ## Cloudmesh Cloud AI Service   
+________________
 
 *fa19-516-140, Mohamed Elfateh Abdelgader*   
 
@@ -10,10 +11,12 @@ invokes an AI functionality in a general form.
 
 ### Introduction  
 ________________
+
 **TBD**  
 
 ### Technologies used 
 ________________
+
 *prelimnary listing (to be confirmed later)*
 
 python  
@@ -36,7 +39,9 @@ ________________
 ### Limitations   
 **TBD**  
 ________________
+
 ### Conclusion
-________________
+_______________
+
 ### References
 ===============
