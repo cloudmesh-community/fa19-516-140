@@ -1,5 +1,7 @@
 # Cognitive Response Simulation *using* Cloudmesh Cloud AI Services
-*by: fa19-516-140, Mohamed Elfateh Abdelgader*   
+
+ 
+Mohamed Elfateh Abdelgader, [fa19-516-140](https://github.com/cloudmesh-community/fa19-516-140)
 
 ## Abstract   
 
