@@ -52,11 +52,12 @@ TBD
 - [ ] learned how to create a cloudmesh command
 - [ ] leraned how to use cloudmesh Config()
 - [ ] learned how to start a vm on openstack with cloudmesh
+- [x] drafted report
 
 * Week Sep 24 - Oct 1
   
-  * TBD
+  - [ ] TBD
   
 * Week Oct 2 - ...
 
-  * TBD
+  - [ ] TBD
