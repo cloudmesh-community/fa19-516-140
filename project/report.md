@@ -20,6 +20,7 @@ The main objective of this project is to provide AI capabilities on cloud. The d
 * Python.
 * Flask.
 * OpenAPI.
+* Development manchine is Windows/OSX/Linux :o2:
 
 ## Design
 
@@ -48,6 +49,14 @@ TBD
 
 ## Progress
 
-### Week Sep 24 - Oct 1
+- [ ] learned how to create a cloudmesh command
+- [ ] leraned how to use cloudmesh Config()
+- [ ] learned how to start a vm on openstack with cloudmesh
 
-* TBD
+* Week Sep 24 - Oct 1
+  
+  * TBD
+  
+* Week Oct 2 - ...
+
+  * TBD
