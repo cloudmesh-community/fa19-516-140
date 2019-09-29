@@ -5,6 +5,8 @@ Mohamed Elfateh Abdelgader, [fa19-516-140](https://github.com/cloudmesh-communit
 
 ## Abstract   
 
+:o2: no use of the work I in reports
+
 I will be developing services that facilitates AI capabilities and functionalities on the cloud along with a REST service that 
 invokes an AI functionality in a general form.
 
@@ -45,3 +47,7 @@ TBD
 2. TBD
 
 ## Progress
+
+### Week Sep 24 - Oct 1
+
+* TBD
