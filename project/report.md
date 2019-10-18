@@ -52,11 +52,11 @@ TBD
 * Week Sep 29 - Oct 5
   
   - [x] Collecting info about how to build prober APIs using OpenAPI.
-  - [x] learning about different DBs Mongodbg and Mariadb in order to decide which is the most prober fit. 
+  - [x] learning about different DBs Mongodbg and SQLlite in order to decide which is the most prober fit. 
   
 * Week Oct 6 - Oct 12
 
-  - [x] Installing MariaDB and start drafting DB design.
+  - [x] Installing MongoDB and start drafting DB design.
   - [x] loading datafiles in Dev environment.
 
 
