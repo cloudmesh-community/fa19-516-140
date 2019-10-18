@@ -3,12 +3,6 @@
  
 Mohamed Elfateh Abdelgader, [fa19-516-140](https://github.com/cloudmesh-community/fa19-516-140)
 
-## Abstract   
-
-:o2: no use of the work I in reports
-
-I will be developing services that facilitates AI capabilities and functionalities on the cloud along with a REST service that 
-invokes an AI functionality in a general form.
 
 ## Introduction  
 
@@ -20,11 +14,11 @@ The main objective of this project is to provide AI capabilities on cloud. The d
 * Python.
 * Flask.
 * OpenAPI.
-* Development manchine is Windows/OSX/Linux :o2:
+* Development manchine is in MacOS 
 
 ## Design
 
-TBD
+[x] Database design completed.
 
 ## Implementation 
 
@@ -32,7 +26,8 @@ TBD
 
 ## Challenges 
 
-TBD
+* Finding enaugh resources of a similar approach.
+
 
 ## Limitations   
 
@@ -49,15 +44,20 @@ TBD
 
 ## Progress
 
-- [ ] learned how to create a cloudmesh command
-- [ ] leraned how to use cloudmesh Config()
-- [ ] learned how to start a vm on openstack with cloudmesh
+- [x] learned how to create a cloudmesh command
+- [x] leraned how to use cloudmesh Config()
+- [x] learned how to start a vm on openstack with cloudmesh
 - [x] drafted report
 
-* Week Sep 24 - Oct 1
+* Week Sep 29 - Oct 5
   
-  - [ ] TBD
+  - [x] Collecting info about how to build prober APIs using OpenAPI.
+  - [x] learning about different DBs Mongodbg and Mariadb in order to decide which is the most prober fit. 
   
-* Week Oct 2 - ...
+* Week Oct 6 - Oct 12
 
-  - [ ] TBD
+  - [x] Installing MariaDB and start drafting DB design.
+  - [x] loading datafiles in Dev environment.
+
+
+  
