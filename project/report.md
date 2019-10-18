@@ -26,7 +26,7 @@ TBD
 
 ## Challenges 
 
-* Finding enaugh resources of a similar approach.
+* Finding enough resources of a similar approach.
 
 
 ## Limitations   
