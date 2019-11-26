@@ -1,0 +1,59 @@
+openapi: 3.0.0
+info:
+  title: cpuinfo
+  description: Getting cpuinfo using OpenAPI 3.0
+  license:
+    name: Apache 2.0
+  version: 0.0.1
+
+servers:
+  - url: http://localhost:8080/cloudmesh
+
+paths:
+  /cpu:
+    get:
+      summary: Returns cpu Model name using Python cpuinfo liberary
+      operationId: cpu.get_proc_model
+      responses:
+        '200':
+          description: cpu info
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/cpu"
+
+  /cpu_cache/{level}:
+    get:
+      summary: Return cpu cache l2/l3 of host machine using cpuinfo liberary
+      operationId: cpu.get_proc_cache
+      parameters:
+        - in: path
+          name: level
+          schema:
+            type: string
+          required: false
+          description: return l2 or l3 or both cache information 
+      responses:
+        '200':
+          description: cpu cache information
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/cpu-cache"
+
+components:
+  schemas:
+    cpu:
+      type: "object"
+      required:
+        - "model"
+      properties:
+        model:
+          type: "string"
+    cpu-cache:
+      type: "object"
+      required:
+        - "cache"
+      properties:
+        cache:
+          type: "string"
