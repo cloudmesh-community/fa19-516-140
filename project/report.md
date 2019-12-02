@@ -19,6 +19,8 @@ The main objective of this project is to provide AI capabilities on cloud. mainl
 ## Design
 
 [x] Database design completed.
+[x] ML design completed.
+[x] API design and coding completed.
 
 ## Implementation 
 
@@ -93,7 +95,7 @@ Book by Geron Aurelien
 
 * Week Nov 17 - Nov 23
 - [x] unifying codes and planning to move everything to chameleon.
-- [] trying to figure out why plotting is not showing results *stucked for a while here
+- [?] trying to figure out why plotting is not showing results *stucked for a while here
 
 * Week Nov 24 - Nov 30
 - [x] drafting the updated report
