@@ -1,4 +1,4 @@
-# Unsupervised ML *using* Cloudmesh Cloud AI Services
+# Unsupervised ML *through* Cloudmesh AI Services
 
  
 Mohamed Elfateh Abdelgader, [fa19-516-140](https://github.com/cloudmesh-community/fa19-516-140)
