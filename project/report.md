@@ -50,7 +50,9 @@ as our practice will be in python lets explore the needed libraries for that, as
 
 ### Architecture Design
 
-
+<img src="results/CMSAI.png"
+     alt="Architecture Design"
+     style="float: left; margin-right: 10px;" />
 
 
 ## Progress
