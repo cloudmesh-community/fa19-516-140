@@ -69,7 +69,7 @@ as our practice will be in python lets explore the needed libraries for that, as
 
 #### *Starting the server*
 
-`python3.7 server'api`
+`python3.7 server.py`
 
 ##### *Output should look like this:*
 	
