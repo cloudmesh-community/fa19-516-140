@@ -73,7 +73,7 @@ as our practice will be in python lets explore the needed libraries for that, as
 
 ##### *Output should look like this:*
 	
-<img src="results/Sserver.png"
+<img src="../results/Sserver.png"
      alt="Server start"
      style="float: left; margin-right: 10px;" />
 
@@ -97,7 +97,7 @@ as our practice will be in python lets explore the needed libraries for that, as
 
 #### *response will be an output for the calculation of the kmeans in a plotting chart of clusters rpresenting each cluster associated with its centroid [mainly three clusters and three centroids] as followin:*
 
-<img src="results/kmeans_centroid.png"
-     alt="Server start"
+<img src="../results/kmeans_centroid.png"
+     alt="kmeans"
      style="float: left; margin-right: 10px;" />
 
