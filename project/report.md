@@ -96,8 +96,7 @@ as our practice will be in python lets explore the needed libraries for that, as
 
 * Week Nov 10 - Nov 16
 - [x] testing Codes for unsuprvised ML using K-means 
-- [x] Enhancing codes to read data directly from mongodb
-- [x] Enhance loaders to load data in Mongodb
+- [x] Canceling Mongodb and directly from csv
 
 * Week Nov 17 - Nov 23
 - [x] unifying codes and planning to move everything to chameleon.
@@ -106,9 +105,13 @@ as our practice will be in python lets explore the needed libraries for that, as
 * Week Nov 24 - Nov 30
 - [x] drafting the updated report
 
+## Results
 
+*plotting diagram showing clusters [3] with centroid pointing*
 
-
+<img src="results/kmeans_centroid.png"
+     alt="Kmeans_graph"
+     style="float: left; margin-right: 10px;" />
 
 ## References
 
