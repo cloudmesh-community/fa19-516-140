@@ -13,7 +13,7 @@ In todays world everything we practice as human being in our daily activities is
 
 In this project demonstration we will see how segmentation of a product line could be done on a pizza product line simple to segments pieces according to their thickness, width, length and weight in order to be mapped as customers desiring. 
 
-K-means
+### K-means
 
 Kmeans clustering is one of the powerful Machine learning algorithm practices that defines and discover segmentation according to their patterns by converging in a finite number of iterations with a computational cost considered the most cost effective and efficient one compare to other clustering practices which is representing as:
 
@@ -68,7 +68,7 @@ Book by Geron Aurelien
 ## Progress
 
 - [x] learned how to create a cloudmesh command
-- [x] leraned how to use cloudmesh Config()
+- [x] leraned how to use cloudmesh Config
 - [x] learned how to start a vm on openstack with cloudmesh
 - [x] drafted report
 
@@ -79,7 +79,7 @@ Book by Geron Aurelien
   
 * Week Oct 6 - Oct 12
 
-  - [x] Installing MongoDB and start drafting DB design.
+  - [x] Installing MongoDB.
   - [x] loading datafiles in Dev environment.
 
 * Week Oct 6 - Oct 12
@@ -88,8 +88,6 @@ Book by Geron Aurelien
 
 * Week Oct 13 - Oct 19
 - [x] Developing API finalizations and tunning
-- [x] injecting data in Mongodb.
-- [x] devloping python Mongodb readers.
 
 * Week Oct 20 - Oct 26
 - [x] Developing Python K-means clustering functionalities
