@@ -33,7 +33,7 @@ info:
                   properties:
                     file_name:
                       type: string
-      /kmean_calc:
+      /kmeans:
         post:
           summary: predict on a previously built model
           operationId: project.kmeans_calc
