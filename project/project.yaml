@@ -11,7 +11,7 @@ info:
   /file/upload:
     post:
       summary: csv data file upload to server
-      operationId: cloudmesh.file.upload
+      operationId: project.file.upload
       requestBody:
         description: file to be uploaded by end-user
         required: true
@@ -25,7 +25,7 @@ info:
                   format: binary
       responses:
         '200':
-          description: file has been uploaded successfully
+          description: sample file has been uploaded successfully
           content:
               application/json:
                 schema:
