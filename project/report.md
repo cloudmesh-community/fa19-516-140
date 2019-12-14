@@ -46,24 +46,12 @@ as our practice will be in python lets explore the needed libraries for that, as
 [x] ML design completed.
 [x] API design and coding completed.
 
-## Implementation 
+# Implementation 
 
 ###Architecture Design
 
-## Challenges   
 
-1. Slowlyness when using chameleon VM.
 
-## Conclusion
-
-TBD
-
-## References
-
-1.Applied Unsupervised Learning with Python by Benjamin Johnston, Aaron Jones, Christopher Kruger
-2.OpenAPI 3.0 Tutorial. https://app.swaggerhub.com/help/tutorials/openapi-3-tutorial
-3.Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
-Book by Geron Aurelien
 
 ## Progress
 
@@ -119,5 +107,12 @@ Book by Geron Aurelien
 
 
 
+
+## References
+
+1.Applied Unsupervised Learning with Python by Benjamin Johnston, Aaron Jones, Christopher Kruger
+2.OpenAPI 3.0 Tutorial. https://app.swaggerhub.com/help/tutorials/openapi-3-tutorial
+3.Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+Book by Geron Aurelien
 
   
