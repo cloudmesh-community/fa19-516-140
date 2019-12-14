@@ -48,7 +48,7 @@ as our practice will be in python lets explore the needed libraries for that, as
 
 # Implementation 
 
-###Architecture Design
+### Architecture Design
 
 
 
