@@ -13,6 +13,23 @@ In todays world everything we practice as human being in our daily activities is
 
 In this project demonstration we will see how segmentation of a product line could be done on a pizza product line simple to segments pieces according to their thickness, width, length and weight in order to be mapped as customers desiring. 
 
+*sample of the dataset*
+
+
+|ID |piece_length|piece_width|piece_weight|piece_thikness|Pecies|
+|---|---|---|---|---|---|
+|1|3.8|2.5|1.3|0.12|Pizza-Margreta|
+|2|3.6|2.3|1.3|0.12|Pizza-Margreta|
+|3|3.4|2.2|1.2|0.12|Pizza-Margreta|
+|4|5.6|3.1|4.8|1.42|Pizza - Mashroom|
+|5|4.2|4.1|3.9|1.22|Pizza - Mashroom|
+|6|5.6|4.3|5.3|2.02|Pizza -Papperoin|
+|7|5.4|4.5|5.5|2.32|Pizza -Papperoin|
+|8|5.6|3.4|5|2.22|Pizza -Papperoin|
+
+
+
+
 ### K-means
 
 Kmeans clustering is one of the powerful Machine learning algorithm practices that defines and discover segmentation according to their patterns by converging in a finite number of iterations with a computational cost considered the most cost effective and efficient one compare to other clustering practices which is representing as:
