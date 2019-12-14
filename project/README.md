@@ -73,7 +73,7 @@ as our practice will be in python lets explore the needed libraries for that, as
 
 ##### *Output should look like this:*
 	
-<img src="results/Start server.png"
+<img src="results/Sserver.png"
      alt="Server start"
      style="float: left; margin-right: 10px;" />
 
