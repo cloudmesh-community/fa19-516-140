@@ -11,7 +11,7 @@ app.add_api("project.yaml")
 # create a URL route in our application for "/"
 @app.route("/")
 def home():
-    msg = {"msg": "It's working!"}
+    msg = {"msg": "Server is working Now"}
     return jsonify(msg)
 
 
