@@ -9,6 +9,8 @@ Mohamed Elfateh Abdelgader, [fa19-516-140](https://github.com/cloudmesh-communit
 
 :o2: format to 80 chars
 
+:o2: fix markdown
+
 ## Introduction  
 
 The main objective of this project is to provide AI capabilities on cloud. mainly I am trying to produce an cloud based method that achieves customer segmentation, which is the practice of grouping customers based on features like age, gender, interests, and spending habits. The developed functionalities will be implemented using cloud platforms mainly two nnodes on chameleon. The scope of work for this deployemnt is to build cababilities on the cloud allows recieving feeds in a data form end users and the service shouls interpret these feeds an responds back results as a segmentation representation of the recieved data, this reponse could be a visualization of the clustered data or tabular representation of the data. 
