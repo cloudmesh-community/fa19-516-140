@@ -14,7 +14,7 @@ Mohamed Elfateh Abdelgader, [fa19-516-140](https://github.com/cloudmesh-communit
 
 :o2: report format to 80 chars
 
-:o2: I can not find the rest service i found https://github.com/cloudmesh-community/fa19-516-140/blob/master/project/Project_codes_files/kmeans.py
+:o2: wher are other services, kmeans has many parameter, how is it passed along to the service.
 
 ## Introduction  
 
