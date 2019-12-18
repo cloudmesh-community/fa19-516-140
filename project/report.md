@@ -11,7 +11,7 @@ Mohamed Elfateh Abdelgader, [fa19-516-140](https://github.com/cloudmesh-communit
 
 :o2: fix markdown
 
-:o2: images dont show
+:o2: images dont show in the epub 
 
 ## Introduction  
 
