@@ -1,6 +1,7 @@
 # Unsupervised ML *through* Cloudmesh AI Services
 
- 
+:o2: there is confusion on your side what is the report and what is not, here you have a readme that no one knows about why are they not merged into the report?
+
 Mohamed Elfateh Abdelgader, [fa19-516-140](https://github.com/cloudmesh-community/fa19-516-140)
 
 
