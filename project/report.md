@@ -3,12 +3,18 @@
  
 Mohamed Elfateh Abdelgader, [fa19-516-140](https://github.com/cloudmesh-community/fa19-516-140)
 
+:o2: progress update needed
+
+:o2: links to code, report, and git insights missing, see other students
+
+:o2: format to 80 chars
 
 ## Introduction  
 
 The main objective of this project is to provide AI capabilities on cloud. mainly I am trying to produce an cloud based method that achieves customer segmentation, which is the practice of grouping customers based on features like age, gender, interests, and spending habits. The developed functionalities will be implemented using cloud platforms mainly two nnodes on chameleon. The scope of work for this deployemnt is to build cababilities on the cloud allows recieving feeds in a data form end users and the service shouls interpret these feeds an responds back results as a segmentation representation of the recieved data, this reponse could be a visualization of the clustered data or tabular representation of the data. 
 
-## Clutering & K-means
+## Clutering with K-means
+
 In todays world everything we practice as human being in our daily activities is tied to a personalized factor, which has been discovered by our services providers, marketing analyzers or data scientists, customer segmentation is the output of this segregation and binding.
 
 In this project demonstration we will see how segmentation of a product line could be done on a pizza product line simple to segments pieces according to their thickness, width, length and weight in order to be mapped as customers desiring. 
@@ -56,6 +62,8 @@ as our practice will be in python lets explore the needed libraries for that, as
 
 
 ## Progress
+
+:o2: remove project progres and integrate fnindings in proper full test where needed and appropriate
 
 - [x] learned how to create a cloudmesh command
 - [x] leraned how to use cloudmesh Config
