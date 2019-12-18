@@ -4,12 +4,22 @@
 
 Mohamed Elfateh Abdelgader, [fa19-516-140](https://github.com/cloudmesh-community/fa19-516-140)
 
+:o2: links are missing see other peoples reports
+
+:o2: there is confusion on your side what is the report and what is not, here you have a readme that no one knows about why are they not merged into the report?
+
+:o2: have you scheduled a meeting and project review with the TAs
+
+:o2: have you engaged with me for a project review prior to submission?
+
+:o2: report format to 80 chars
 
 ## Introduction  
 
 The main objective of this project is to provide AI capabilities on cloud. mainly I am trying to produce an cloud based method that achieves customer segmentation, which is the practice of grouping customers based on features like age, gender, interests, and spending habits. The developed functionalities will be implemented using cloud platforms mainly two nnodes on chameleon. The scope of work for this deployemnt is to build cababilities on the cloud allows recieving feeds in a data form end users and the service shouls interpret these feeds an responds back results as a segmentation representation of the recieved data, this reponse could be a visualization of the clustered data or tabular representation of the data. 
 
-## Clutering & K-means
+## Clutering with K-means
+
 In todays world everything we practice as human being in our daily activities is tied to a personalized factor, which has been discovered by our services providers, marketing analyzers or data scientists, customer segmentation is the output of this segregation and binding.
 
 In this project demonstration we will see how segmentation of a product line could be done on a pizza product line simple to segments pieces according to their thickness, width, length and weight in order to be mapped as customers desiring. 
@@ -45,6 +55,8 @@ Where:
 
 as our practice will be in python lets explore the needed libraries for that, as we can see all of them can be found on the requirements.txt file:
 
+:o2: this is not needed as its clear in the code and a pip install woudl take care of it
+
 * numpy
 * flask
 * connexion[swagger-ui]
@@ -60,8 +72,12 @@ as our practice will be in python lets explore the needed libraries for that, as
 
 ## Project walking through...
 
+:o2: we do not use python 3.6, we use python 3.7.3 or above. you need to document this by using a python -m venv ...
+
+:o2: the instalation is wrong as you shoul use pip whic outo installs the requirements. to simplify this we ask student to use cloudmesh sys generate
 
 ### step 1
+
 *setting up the server [installing requirements.txt]
 
 `sudo -H install -r requirements.txt`
@@ -102,5 +118,8 @@ as our practice will be in python lets explore the needed libraries for that, as
      alt="Server start"
      style="float: left; margin-right: 10px;" />
 
+:o2: and now what ....
 
- 
+:o2: refernces missing
+
+:o2: benchmarks, pytests missing
