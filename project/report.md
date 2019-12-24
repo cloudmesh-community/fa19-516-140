@@ -60,9 +60,7 @@ as our practice will be in python lets explore the needed libraries for that, as
 
 ### Architecture Design
 
-<img src="results/CMSAI.png"
-     alt="Architecture Design"
-     style="float: left; margin-right: 10px;" />
+![Architecture](images/CMSAI.png){#fig:140-arch)
 
 
 ## Progress
@@ -121,9 +119,7 @@ as our practice will be in python lets explore the needed libraries for that, as
 
 *plotting diagram showing clusters [3] with centroid pointing*
 
-<img src="results/kmeans_centroid.png"
-     alt="Kmeans_graph"
-     style="float: left; margin-right: 10px;" />
+![Result Kmeans](images/kmeans_centroid.png){#fig:140-kmeans)
 
 ## References
 
