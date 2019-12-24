@@ -1,4 +1,0 @@
-pandas
-flask
-connexion[swagger-ui]
-scikit-learn
