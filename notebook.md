@@ -1,9 +1,8 @@
 # fa19-516-140
 
-# Spring 2020  
 # Plan
 
-### The main objective of this project is to provide AI capabilities on cloud. mainly to produce a cloud based method leverging cloudmesh-analytics in order achieves automated segmentation(clustering), which is the practice of grouping based on data-sets features. The developed functionalities will be implemented using chameleon cloud platform. The scope of work for this deployemnt is to build cababilities on the cloud allows recieving feeds in a data form end users and the service should interpret these feeds an responds back results as a segmentation representation of the recieved data, this reponse could be a visualization of the clustered data or tabular representation of the data.
+#### The main objective of this project is to provide AI capabilities on cloud. mainly to produce a cloud based method leverging cloudmesh-analytics in order achieves automated segmentation(clustering), which is the practice of grouping based on data-sets features. The developed functionalities will be implemented using chameleon cloud platform. The scope of work for this deployemnt is to build cababilities on the cloud allows recieving feeds in a data form end users and the service should interpret these feeds an responds back results as a segmentation representation of the recieved data, this reponse could be a visualization of the clustered data or tabular representation of the data.
 
 
 ## WEEK1  11 feb - 17 feb
