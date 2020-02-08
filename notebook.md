@@ -40,7 +40,7 @@
 - [-] testing first API reading in chameleon
 - [-] updating project report and weekly meeting with instructor(s)
 
-#### WEEK (08  31 mar - 12 apr) 
+### WEEK09 (31 mar - 12 apr) 
 - [-] Enhance the service and include sklearn pramaeters. 
 - [-] Testing the new added prameters functionality.
 - [-] updating project report and weekly meeting with instructor(s)
@@ -50,13 +50,13 @@
 - [-] testing Codes for unsuprvised ML using K-means 
 - [-] updating project report and weekly meeting with instructor(s)
 
-### WEEK10 (19 apr - 25 apr)
+### WEEK11 (19 apr - 25 apr)
 
 - [-] unifying codes and planning to move everything to chameleon.
 - [-] trying to figure out why plotting is not showing results stuck for a while here
 - [-] drafted report and weekly meeting with instructor(s)
 
-### WEEK10 (26 apr - 30 apr) Deadline of submission
+### WEEK12 (26 apr - 30 apr) Deadline of submission
 - [-] Revising and tunning.
 - [-] Publishing final report, codes and tests results.
 - [-] Submission
