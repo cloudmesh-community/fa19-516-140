@@ -3,14 +3,12 @@
 # Plan
 
 ### WEEK1 (11 FEB - 17 FEB)
-- [ ] selection and documentation of Haddop installation
-- [ ] installing/resetting development envoirment - local machine
-- [ ] updating project report and weekly meeting with instructor(s)
+- [X] selection and documentation of Haddop installation
+- [X] installing/resetting development envoirment - local machine
 
 ### WEEK2 (18 FEB - 24 FEB)
-- [ ] configuring and building cloudmesh needed configuration.
-- [ ] starting VM on openstack with cloudmesh.
-- [ ] updating project report and weekly meeting with the instructor(s)
+- [X] configuring and building cloudmesh needed configuration.
+- [X] starting VM on openstack with cloudmesh.
 
 ### WEEK3 (25 FEB - 02 MAR)
 - [ ] Drafting first depolyment prototype and bluprint
